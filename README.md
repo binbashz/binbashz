@@ -48,15 +48,7 @@
   ]
 }
 
----
-Welcome to my corner on GitHub! I'm a tech enthusiast and budding professional eager to make my mark in the world of programming.
- My curiosity has led me to explore a variety of concepts and areas, including:
-
-- **Programming Languages:** Python, C, and JavaScript.
-- **Web Development:** HTML, CSS, Flask.
-- **Database:** SQL, JOIN queries.
-- **System Administration:** Linux, SSH, SSL, web servers.
-- **Infrastructure:** Concepts related to system administration.
+```
 
 ## Goal
 
@@ -81,4 +73,6 @@ If you share similar interests, have advice for my professional growth, or just 
 
 
 ![Tus estadísticas de lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=binbashz&layout=donut)
+
+
 
