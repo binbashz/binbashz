@@ -24,7 +24,7 @@ If you share similar interests, have advice for my professional growth, or just 
 
 
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=binbashz)
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=binbashz)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ![Tus estadísticas de lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=binbashz&layout=donut)
