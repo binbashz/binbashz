@@ -23,6 +23,8 @@ Currently, my focus is on gaining hands-on experience and applying what I've lea
 If you share similar interests, have advice for my professional growth, or just want to chat about technology, feel free to reach out! I'm excited about the opportunity to learn and grow alongside the developer community.
 
 
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=binbashz)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=binbashz)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![Tus estadísticas de lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=binbashz&layout=donut)
