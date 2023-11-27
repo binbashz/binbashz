@@ -1,7 +1,7 @@
 # Hi there, I'm Mauricio 👋
 
 ## About Me
-# Mauricio Ferreira Correa
+
 
 ```json
 {
