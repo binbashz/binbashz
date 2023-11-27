@@ -11,7 +11,7 @@
   "phone": "+59897524589",
   "email": "imcorreamauricio@gmail.com",
   "github": "http://github.com/binbashz",
-  "objective": "Passionate Full Stack Developer taking initial steps in the professional journey. Exploring key concepts in Frontend and Backend development.",
+  "objective": "Passionate Full Stack Developer taking initial steps in the professional journey.Exploring key concepts in Frontend and Backend development.",
   "education": [
     {
       "degree": "Foundations in Computer Science",
@@ -33,7 +33,7 @@
       "company": "Holberton School",
       "location": "-",
       "date": "Ongoing",
-      "description": "Rent Agile - Online platform for car rental services. [Landing Page](https://rentagile.my.canva.site/rentagile-project) [GitHub Repo](https://github.com/nachofen/rent_agile)"
+      "description": "Rent Agile - Online platform for car rental services.[Landing Page](https://rentagile.my.canva.site/rentagile-project) [GitHub Repo](https://github.com/nachofen/rent_agile)"
     }
   ],
   "skills": [
