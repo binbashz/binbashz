@@ -26,14 +26,14 @@
       "company": "Holberton School - Montevideo",
       "location": "Montevideo",
       "date": "2022-09 - 2023-11",
-      "description": "Silicon Valley-level training. Expertise in Python, C, JavaScript, HTML, CSS, SQL, Linux, and system administration."
+      "description": "Expertise in Python, C, JavaScript, HTML, CSS, SQL, Linux, and system administration."
     },
     {
       "position": "Final Project",
       "company": "Holberton School",
       "location": "-",
       "date": "Ongoing",
-      "description": "Rent Agile - Online platform for car rental services.[Landing Page](https://rentagile.my.canva.site/rentagile-project) [GitHub Repo](https://github.com/nachofen/rent_agile)"
+      "description": " Online platform for car rental services."
     }
   ],
   "skills": [
