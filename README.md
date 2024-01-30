@@ -6,9 +6,7 @@
 ```json
 {
   "occupation": "Full Stack Developer",
-  "birthdate": "1992-07-25",
-  "address": "Uruguay",
-  "phone": "+59897524589",
+  "location": "Uruguay",
   "email": "imcorreamauricio@gmail.com",
   "github": "http://github.com/binbashz",
   "objective": "Passionate Full Stack Developer taking initial steps in the professional journey.Exploring key concepts in Frontend and Backend development.",
