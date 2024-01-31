@@ -100,7 +100,5 @@ If you share similar interests, have advice for my professional growth, or just 
 
 
 
-![Tus estadísticas de lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=binbashz&layout=donut)
-
 
 
