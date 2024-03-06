@@ -3,47 +3,101 @@
 ## About Me
 
 
-```json
-{
-  "occupation": "Full Stack Developer",
-  "location": "Uruguay",
-  "email": "imcorreamauricio@gmail.com",
-  "github": "http://github.com/binbashz",
-  "objective": "Passionate Full Stack Developer taking initial steps in the professional journey.Exploring key concepts in Frontend and Backend development.",
-  "education": [
-    {
-      "degree": "Foundations in Computer Science",
-      "institution": "Holberton School",
-      "location": "Montevideo",
-    }
-  ],
-  "experience": [
-    {
-      "position": "Full Stack Developer",
-      "company": "Holberton School - Montevideo",
-      "location": "Montevideo",
-      "date": "2022-09 - 2023-11",
-      "description": "Expertise in Python, C, JavaScript, HTML, CSS, SQL, Linux, and system administration."
-    },
-    {
-      "position": "Final Project",
-      "company": "Holberton School",
-      "location": "-",
-      "date": "Ongoing",
-      "description": " Online platform for car rental services."
-    }
-  ],
-  "skills": [
-    "HTML/CSS", "JavaScript", "Python", "SQL", "Node.js", "API Development",
-    "Flask-SQLAlchemy", "RESTful APIs", "JSON", "Data structures", "C programming",
-    "Linux", "Web Development", "UI Enhancement", "Databases", "HTTP",
-    "Backend Development", "Frontend"
-  ],
-  "languages": [
-    {"language": "Spanish", "proficiency": "Native"},
-    {"language": "English", "proficiency": "Advanced"}
-  ]
-}
+```
+class Education:
+    def __init__(self, degree, institution, location):
+        self.degree = degree
+        self.institution = institution
+        self.location = location
+
+    def to_dict(self):
+        return {
+            "degree": self.degree,
+            "institution": self.institution,
+            "location": self.location
+        }
+
+class Experience:
+    def __init__(self, position, company, location, date, description):
+        self.position = position
+        self.company = company
+        self.location = location
+        self.date = date
+        self.description = description
+
+    def to_dict(self):
+        return {
+            "position": self.position,
+            "company": self.company,
+            "location": self.location,
+            "date": self.date,
+            "description": self.description
+        }
+
+class Developer:
+    def __init__(self, name, occupation, location, email, github, objective, education, experience, skills, languages):
+        self.name = name
+        self.occupation = occupation
+        self.location = location
+        self.email = email
+        self.github = github
+        self.objective = objective
+        self.education = education
+        self.experience = experience
+        self.skills = skills
+        self.languages = languages
+
+    def to_dict(self):
+        return {
+            "name": self.name,
+            "occupation": self.occupation,
+            "location": self.location,
+            "email": self.email,
+            "github": self.github,
+            "objective": self.objective,
+            "education": [edu.to_dict() for edu in self.education],
+            "experience": [exp.to_dict() for exp in self.experience],
+            "skills": self.skills,
+            "languages": self.languages
+        }
+
+# Define data
+mauricio_education = Education("Foundations in Computer Science", "Holberton School", "Montevideo")
+
+# Define experience
+project1 = Experience("Full Stack Developer", "Holberton School - Montevideo", "Montevideo", "2022-09 - 2023-11",
+                      "Expertise in Python, C, JavaScript, HTML, CSS, SQL, Linux, and system administration.")
+project2 = Experience("Final Project", "Holberton School", "-", "Ongoing",
+                      "Online platform for car rental services.")
+
+mauricio_experience = [project1, project2]
+
+# Create Developer instance
+mauricio = Developer(
+    name="Mauricio",
+    occupation="Full Stack Developer",
+    location="Uruguay",
+    email="imcorreamauricio@gmail.com",
+    github="http://github.com/binbashz",
+    objective="Passionate Full Stack Developer exploring key concepts in Frontend and Backend development.",
+    education=[mauricio_education],
+    experience=mauricio_experience,
+    skills=[
+        "HTML/CSS", "JavaScript", "Python", "SQL", "Node.js", "API Development",
+        "Flask-SQLAlchemy", "RESTful APIs", "JSON", "Data structures", "C programming",
+        "Linux", "Web Development", "UI Enhancement", "Databases", "HTTP",
+        "Backend Development", "Frontend"
+    ],
+    languages=[
+        {"language": "Spanish", "proficiency": "Native"},
+        {"language": "English", "proficiency": "Advanced"}
+    ]
+)
+
+# Convert to dictionary
+mauricio_data = mauricio.to_dict()
+print(mauricio_data)
+
 
 ```
 
