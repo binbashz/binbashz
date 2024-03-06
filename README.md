@@ -117,6 +117,7 @@ Currently, my focus is on gaining hands-on experience and applying what I've lea
 
 If you share similar interests, have advice for my professional growth, or just want to chat about technology,
  feel free to reach out! I'm excited about the opportunity to learn and grow alongside the developer community.
+ mdatanode@outlook.com
 
 ## Frontend:
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Logo" width="20"/> React](https://reactjs.org/)
