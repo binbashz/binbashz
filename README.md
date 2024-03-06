@@ -124,8 +124,11 @@ If you share similar interests, have advice for my professional growth, or just 
 [<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter Logo" width="20"/> Flutter](https://flutter.dev)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap Logo" width="20"/> Bootstrap](https://getbootstrap.com)
 [<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js Logo" width="20"/> Next.js](https://nextjs.org/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS Logo" width="20"/> Tailwind CSS](https://tailwindcss.com/)
+
 
 ## Backend:
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django Logo" width="20"/> Django](https://www.djangoproject.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js Logo" width="20"/> Node.js](https://nodejs.org)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js Logo" width="20"/> Express.js](https://expressjs.com)
 [<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart Logo" width="20"/> Dart](https://dart.dev)
