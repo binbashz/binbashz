@@ -119,37 +119,44 @@ If you share similar interests, have advice for my professional growth, or just 
  feel free to reach out! I'm excited about the opportunity to learn and grow alongside the developer community.
  mdatanode@outlook.com
 
-## Frontend:
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Logo" width="20"/> React](https://reactjs.org/)
-[<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter Logo" width="20"/> Flutter](https://flutter.dev)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap Logo" width="20"/> Bootstrap](https://getbootstrap.com)
-[<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js Logo" width="20"/> Next.js](https://nextjs.org/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS Logo" width="20"/> Tailwind CSS](https://tailwindcss.com/)
-
-
 ## Backend:
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django Logo" width="20"/> Django](https://www.djangoproject.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js Logo" width="20"/> Node.js](https://nodejs.org)
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django Logo" width="20"/> Django](https://www.djangoproject.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask Logo" width="20"/> Flask](https://flask.palletsprojects.com/en/2.0.x/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js Logo" width="20"/> Express.js](https://expressjs.com)
-[<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart Logo" width="20"/> Dart](https://dart.dev)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js Logo" width="20"/> Node.js](https://nodejs.org)
+
 
 ## Databases:
+[<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL Logo" width="20"/> Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB Logo" width="20"/> MongoDB](https://www.mongodb.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Logo" width="20"/> MySQL](https://www.mysql.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL Logo" width="20"/> PostgreSQL](https://www.postgresql.org)
-[<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL Logo" width="20"/> Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server)
+
+## Frontend:
+[<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter Logo" width="20"/> Flutter](https://flutter.dev)
+[<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart Logo" width="20"/> Dart](https://dart.dev)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Logo" width="20"/> React](https://reactjs.org/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap Logo" width="20"/> Bootstrap](https://getbootstrap.com)
+[<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js Logo" width="20"/> Next.js](https://nextjs.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS Logo" width="20"/> Tailwind CSS](https://tailwindcss.com/)
+
 
 ## Programming Languages:
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="20"/> JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" width="20"/> Python](https://www.python.org)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C Logo" width="20"/> C](https://www.cprogramming.com/)
 [<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash Logo" width="20"/> Bash](https://www.gnu.org/software/bash/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="20"/> JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" width="20"/> Python](https://www.python.org)
 
 ## Tools and Others:
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML Logo" width="20"/> HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS Logo" width="20"/> CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git Logo" width="20"/> Git](https://git-scm.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux Logo" width="20"/> Linux](https://www.linux.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop Logo" width="20"/> Photoshop](https://www.photoshop.com/en)
 [<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman Logo" width="20"/> Postman](https://postman.com)
+
+
 
 
 
