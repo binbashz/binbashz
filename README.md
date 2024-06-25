@@ -1,4 +1,4 @@
-# Hi there, I'm Mauricio 👋
+# Hi there
 
 ## About Me
 
